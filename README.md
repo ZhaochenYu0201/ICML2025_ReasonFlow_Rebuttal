@@ -66,7 +66,7 @@
 | **Summary**  |In summary, while plan-and-solve prompting methods may suffice for simpler tasks, **our training approach with ReasonFlow is vital for addressing complex problems**. It not only augments the inherent reasoning capabilities of LLMs with external structured knowledge but also systematically improves the quality of reasoning trajectories through two-stage training. These advantages are empirically validated by our ablation studies as above, which underscore the necessity and effectiveness of our additional training stages.|
 
 ## Response to Reviewer 49yc
-### Q1. The choice for base LLMs and modifaction of our current paper.
+### Q1. The choice for base LLMs and modification of our current paper.
 #### Table.6
 |Model|Without Template(%)|With Template(%)|
 |-|-|-|
